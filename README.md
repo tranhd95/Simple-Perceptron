@@ -3,3 +3,6 @@ Implementation of a simple perceptron based on a book Nature of Code by Daniel S
 
 - Learns to recognize squares and circles (separated by a linear line)
 - It uses step function as an activation function
+
+## Preview
+![Preview](/images/preview.png)
